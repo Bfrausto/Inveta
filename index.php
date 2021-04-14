@@ -14,10 +14,10 @@
             <img src="media/logo.png">
             <div id="inputs">
                 <div id="usuario">
-                    <input type="text" placeholder="Usuario" name="usuario"> 
+                    <input type="text" placeholder="Usuario" name="usuario" required> 
                 </div>
                 <div id="pass">
-                    <input type="password" placeholder="Password" name="password">
+                    <input type="password" placeholder="Contraseña" name="password" required> 
                 </div>
             </div>
             <div id = "singin">

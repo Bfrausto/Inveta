@@ -23,7 +23,8 @@
         }
         else{
             include('bad.php');
-        
+
         }
     }
+    $conn->close();
 ?>

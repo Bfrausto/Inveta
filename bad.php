@@ -16,10 +16,10 @@
         <p style="font-size:20px; font-weight:bold; padding-top:30px; color:red">Usuario o contraseña inválidos.</p>
             <div id="inputs">
                 <div id="usuario">
-                    <input type="text" placeholder="Usuario" name="usuario"> 
+                    <input type="text" placeholder="Usuario" name="usuario" required> 
                 </div>
                 <div id="pass">
-                    <input type="password" placeholder="Password" name="password">
+                    <input type="password" placeholder="Password" name="password" required>
                 </div>
             </div>
             <div id = "singin">
